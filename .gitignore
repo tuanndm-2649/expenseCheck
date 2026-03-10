@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+build/
+*.log
+.env*
+.next/
+
+# Mac
+.DS_Store
+
+# VSCode/JetBrains
+.vscode/
+.idea/
+
+# Test/coverage
+coverage/
+
+# Others
+*.tmp
+*.swp

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    color-scheme: light;
+}
+
+body {
+    @apply bg-canvas text-ink m-0 min-h-screen;
+}
+
+* {
+    box-sizing: border-box;
+}
