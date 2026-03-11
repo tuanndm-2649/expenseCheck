@@ -89,6 +89,12 @@ pnpm test     # run unit tests
 
 Detailed contract: `specs/001-personal-finance-spec/contracts/api.md`
 
+## Screenshot
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 ## Notes
 
 - Transactions are independent from funds.
